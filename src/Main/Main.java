@@ -22,8 +22,8 @@ public class Main {
      */
     public static void main(String[] args) {
         //Declaracion de vectores para almacenar los tiempos
-        //las variables que empiezan por la palabra time son vectores de tiempos 
-        //acomulados, es decir tiempo desde 0 hasta la persona i
+        //las variables que empiezan por la palabra tiempos son vectores 
+        //de tiempo acomulado, es decir tiempo desde 0 hasta la persona i
             int requisa[] = new int[MAX_PERSONA];
             int llegada[] = new int[MAX_PERSONA];
             int timeLlegada[] = new int[MAX_PERSONA];
